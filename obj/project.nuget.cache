@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o5ipu549+HE=",
+  "dgSpecHash": "6yMd3B7fs0w=",
   "success": true,
-  "projectFilePath": "E:\\Programmation\\Back\\L2\\ObAVan\\C#\\Ajuste-lineaire\\ajust.csproj",
+  "projectFilePath": "E:\\Programmation\\Back\\L2\\ObAVan\\C#\\ajustement-lineaire\\ajust.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Herin'Iavo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
     "C:\\Users\\Herin'Iavo\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",

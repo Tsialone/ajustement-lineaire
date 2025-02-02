@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Programmation\\Back\\L2\\ObAVan\\C#\\Ajuste-lineaire\\ajust.csproj": {}
+    "E:\\Programmation\\Back\\L2\\ObAVan\\C#\\ajustement-lineaire\\ajust.csproj": {}
   },
   "projects": {
-    "E:\\Programmation\\Back\\L2\\ObAVan\\C#\\Ajuste-lineaire\\ajust.csproj": {
+    "E:\\Programmation\\Back\\L2\\ObAVan\\C#\\ajustement-lineaire\\ajust.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Programmation\\Back\\L2\\ObAVan\\C#\\Ajuste-lineaire\\ajust.csproj",
+        "projectUniqueName": "E:\\Programmation\\Back\\L2\\ObAVan\\C#\\ajustement-lineaire\\ajust.csproj",
         "projectName": "ajust",
-        "projectPath": "E:\\Programmation\\Back\\L2\\ObAVan\\C#\\Ajuste-lineaire\\ajust.csproj",
+        "projectPath": "E:\\Programmation\\Back\\L2\\ObAVan\\C#\\ajustement-lineaire\\ajust.csproj",
         "packagesPath": "C:\\Users\\Herin'Iavo\\.nuget\\packages\\",
-        "outputPath": "E:\\Programmation\\Back\\L2\\ObAVan\\C#\\Ajuste-lineaire\\obj\\",
+        "outputPath": "E:\\Programmation\\Back\\L2\\ObAVan\\C#\\ajustement-lineaire\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Herin'Iavo\\AppData\\Roaming\\NuGet\\NuGet.Config"
