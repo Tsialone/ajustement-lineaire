@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("tennis")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ajust")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0076a3e035e3b2121fcb620586b21597cbccb75")]
-[assembly: System.Reflection.AssemblyProductAttribute("tennis")]
-[assembly: System.Reflection.AssemblyTitleAttribute("tennis")]
+[assembly: System.Reflection.AssemblyProductAttribute("ajust")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ajust")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]

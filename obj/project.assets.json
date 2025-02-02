@@ -395,9 +395,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Programmation\\Back\\L2\\ObAVan\\C#\\Ajuste-lineaire\\tennis.csproj",
-      "projectName": "tennis",
-      "projectPath": "E:\\Programmation\\Back\\L2\\ObAVan\\C#\\Ajuste-lineaire\\tennis.csproj",
+      "projectUniqueName": "E:\\Programmation\\Back\\L2\\ObAVan\\C#\\Ajuste-lineaire\\ajust.csproj",
+      "projectName": "ajust",
+      "projectPath": "E:\\Programmation\\Back\\L2\\ObAVan\\C#\\Ajuste-lineaire\\ajust.csproj",
       "packagesPath": "C:\\Users\\Herin'Iavo\\.nuget\\packages\\",
       "outputPath": "E:\\Programmation\\Back\\L2\\ObAVan\\C#\\Ajuste-lineaire\\obj\\",
       "projectStyle": "PackageReference",
